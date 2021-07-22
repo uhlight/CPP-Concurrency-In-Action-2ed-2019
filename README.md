@@ -81,7 +81,6 @@
 
 [附录A 对C++11特性的简要介绍](content/appendix_A/附录A%20对C++11特性的简要介绍.md)  
 - [A.1 右值引用](content/appendix_A/A.1%20右值引用.md)  
-- [A.10 本章总结](content/appendix_A/A.10%20本章总结.md)  
 - [A.2 删除函数](content/appendix_A/A.2%20删除函数.md)  
 - [A.3 默认函数](content/appendix_A/A.3%20默认函数.md)  
 - [A.4 常量表达式函数](content/appendix_A/A.4%20常量表达式函数.md)  
@@ -90,6 +89,7 @@
 - [A.7 自动推导变量类型](content/appendix_A/A.7%20自动推导变量类型.md)  
 - [A.8 线程本地变量](content/appendix_A/A.8%20线程本地变量.md)  
 - [A.9 模板类参数的推导](content/appendix_A/A.9%20模板类参数的推导.md)  
+- [A.10 本章总结](content/appendix_A/A.10%20本章总结.md)  
 
 
 [附录B 并发库的简单比较](content/appendix_B/附录B%20并发库的简单比较.md)  
