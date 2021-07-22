@@ -43,4 +43,4 @@ C++ Concurrency In Action
 - 英文原版PDF：https://ru.b-ok2.org/book/3688262/d57395?dsource=recommend
 - 不错的笔记：https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed
 
-[](./content)
+[第一章](content/chapter1/1.0-chinese.md)
